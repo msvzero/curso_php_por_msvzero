@@ -8,5 +8,4 @@
     print("<br/>Mi estatura es: ");
     print($estatura);
     
-
 ?>
